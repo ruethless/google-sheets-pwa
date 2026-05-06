@@ -19,12 +19,12 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "True line",
-  description: "True line",
+  title: "True Line Directory",
+  description: "The independent catalog for the tattoo machine building trade.",
   appleWebApp: {
     capable: true,
     statusBarStyle: 'black-translucent',
-    title: 'True line',
+    title: 'True Line',
     startupImage: [
       // iPhone SE 1st gen
       { url: '/splash/640/1136', media: '(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)' },

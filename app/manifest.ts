@@ -2,9 +2,9 @@ import type { MetadataRoute } from 'next'
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: 'True line',
-    short_name: 'True line',
-    description: 'True line',
+    name: 'True Line',
+    short_name: 'True Line',
+    description: 'The independent catalog for the tattoo machine building trade.',
     start_url: '/',
     id: '/',
     scope: '/',
