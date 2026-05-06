@@ -1,7 +1,8 @@
 {
-  "name": "pwareader",
+  "name": "true-line-directory",
   "version": "0.1.0",
   "private": true,
+  "author": "Ruethless Irons",
   "scripts": {
     "dev": "next dev --webpack --experimental-https",
     "build": "next build --webpack",
